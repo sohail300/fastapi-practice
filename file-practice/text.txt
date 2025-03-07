@@ -1,4 +1,0 @@
-Hi, I am Sohail!
-I am a final year undergrad student.
-str 1
-str 2
