@@ -31,3 +31,8 @@ def test_get_users_from_api_error(mock_get_users_from_api):
 
     with pytest.raises(requests.HTTPError):
         services.get_users_from_api()
+
+
+# mock job data, applicant data,
+# write all the test case methods.
+# 
